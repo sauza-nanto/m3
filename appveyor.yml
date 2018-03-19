@@ -2,9 +2,5 @@ image: Visual Studio 2015
 
 version: '{build}'
 
-install: off
-
 build_script:
   - cmd: start.bat
-
-test: off
